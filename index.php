@@ -15,7 +15,7 @@
 
 <body>
     <div class="container disable">
-        <h2>Image Editor</h2>
+        <h2>画像フィルター</h2>
         <div class="wrapper">
             <div class="editor-panel">
                 <div class="filter">
